@@ -24,6 +24,4 @@ python3 EduSRC-Research/scripts/task_controller.py start --source "/精确的/�
 
 首次部署验收和未完成项见 [初始化验收报告](EduSRC-Research/reports/INITIALIZATION_ACCEPTANCE.md)。
 
-## 许可证
 
-本仓库尚未附加开源许可证；发布者应先确认希望采用的许可条款。
